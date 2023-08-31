@@ -32,4 +32,4 @@ def maximum(a,b,c):
     largest = c
   return largest
 
-st.header('The answer is ', maximum(a,b,c))
+st.write('The answer is ', maximum(a,b,c))
